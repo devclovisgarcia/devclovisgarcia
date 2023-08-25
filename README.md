@@ -2,14 +2,14 @@
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/wenderenzo123">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theviolatorx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theviolatorx&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devclovisgarcia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devclovisgarcia&layout=compact&langs_count=7&theme=dark"/>
 
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=theviolatorx&theme=darcula&hide_border=true&background=FFFFFF00" />
 </div>
 <div align="center">
-  <a href="https://github.com/theviolatorx">
-    <img src="https://komarev.com/ghpvc/?username=theviolatorx&style=for-the-badge&color=orange" alt="Profile View Badge"/>
+  <a href="https://github.com/devclovisgarcia">
+    <img src="https://komarev.com/ghpvc/?username=devclovisgarcia&style=for-the-badge&color=orange" alt="Profile View Badge"/>
   </a>
 </div>
 
